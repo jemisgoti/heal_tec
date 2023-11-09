@@ -1,0 +1,23 @@
+icons_launcher:
+  image_path: "assets/images/desktop_logo.png"
+  platforms:
+    android:
+      enable: true
+      image_path: "assets/images/mobile_logo.png"
+ 
+    ios:
+      enable: true
+      image_path: "assets/images/mobile_logo.png"
+    web:
+      enable: true
+      image_path: "assets/images/desktop_logo.png"
+ 
+    macos:
+      enable: true
+      image_path: "assets/images/desktop_logo.png"
+    windows:
+      enable: true
+      image_path: "assets/images/desktop_logo.png"
+    linux:
+      enable: true
+      image_path: "assets/images/desktop_logo.png"
